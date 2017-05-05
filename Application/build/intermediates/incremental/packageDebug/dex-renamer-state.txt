@@ -1,0 +1,7 @@
+#Wed May 03 12:41:31 CST 2017
+base.0=C\:\\Users\\QY\\AndroidStudioProjects\\android-Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ab7f5cf81ad4ee751ab848e291063579c1127eb5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\QY\\AndroidStudioProjects\\android-Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_726577843e28a4c9959443761b36c59298911134\\classes.dex
+base.1=C\:\\Users\\QY\\AndroidStudioProjects\\android-Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_726577843e28a4c9959443761b36c59298911134
+file.0=C\:\\Users\\QY\\AndroidStudioProjects\\android-Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ab7f5cf81ad4ee751ab848e291063579c1127eb5\\classes.dex
